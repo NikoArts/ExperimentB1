@@ -1,0 +1,18 @@
+body {
+	background: black
+}
+
+audio{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	image-rendering: pixelated;
+	width: 80vw
+}
+
+p {
+	color:white; text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80vw
+}
